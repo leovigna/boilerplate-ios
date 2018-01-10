@@ -29,7 +29,7 @@
         <!--View Controller-->
         <scene sceneID="eTC-8D-foB">
             <objects>
-                <viewController id="w9K-Ny-Kbz" customClass="ViewController" customModule="boilerplate" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="w9K-Ny-Kbz" customClass="ViewController" customModule="boilerplate_ios" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="nul-e9-gkc"/>
                         <viewControllerLayoutGuide type="bottom" id="PQt-d8-ItR"/>
@@ -71,7 +71,7 @@
         <!--PayVC-->
         <scene sceneID="Uhh-Z2-6zN">
             <objects>
-                <viewController id="FAT-ZN-zje" customClass="LVPayVC" customModule="boilerplate" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="FAT-ZN-zje" customClass="LVPayVC" customModule="boilerplate_ios" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="dcR-Nu-usL"/>
                         <viewControllerLayoutGuide type="bottom" id="J7x-aK-he7"/>
@@ -126,7 +126,7 @@
         <!--MapVC-->
         <scene sceneID="dwH-u8-5DI">
             <objects>
-                <viewController id="f8e-E9-90G" customClass="LVMapVC" customModule="boilerplate" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="f8e-E9-90G" customClass="LVMapVC" customModule="boilerplate_ios" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="F1a-Cq-rUg"/>
                         <viewControllerLayoutGuide type="bottom" id="SO7-cr-6zj"/>
