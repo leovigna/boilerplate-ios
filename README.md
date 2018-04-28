@@ -4,14 +4,12 @@ Integrates my favorite libraries:
 * [Firebase Cloud Firestore](https://firebase.google.com/products/firestore/)
 * [Firebase Auth](https://firebase.google.com/products/auth/)
 * [Stripe](http://stripe.com)
+* [GoogleMaps](https://developers.google.com/maps/)
+* [Spotify](https://beta.developer.spotify.com/documentation/ios-sdk/)
 ## Motivation
 This project was created for personal learning and to enable rapid prototyping during hackathons.
 ## Build Status
-## Codestyle
-## Screenshots
-Include logo/demo screenshot etc.
-## Code style
-Official swift API Guidelines [Swift](https://swift.org/documentation/api-design-guidelines/)
+Travis build status. HERE
 ## Getting Started
 These instructions will get you started.
 ### Prerequisites
@@ -34,12 +32,17 @@ If you run the backend on a server make sure to also edit the Stripe API url fie
 ```
 static let STRIPE_API_URL = <SERVER_URL>/stripe
 ```
-## Tests
-Currently no tests are implemented.
+Currently no unit tests are implemented.
+## Screenshots
+Include logo/demo screenshot etc.
+## Code style
+Official Swift API Guidelines [Swift](https://swift.org/documentation/api-design-guidelines/)
 ## Authors
 
 * **Leo Vigna** - *Initial work* - [boilerplate-ios](https://github.com/lion9901/boilerplate-ios)
 
+## Contribute
+At this moment, you are welcome to fork the project.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/lion9901/boilerplate-ios/blob/master/LICENSE.md) file for details

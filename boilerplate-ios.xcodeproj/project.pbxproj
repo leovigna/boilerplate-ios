@@ -32,6 +32,7 @@
 		F686C5182006AADB002E5EA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F686C5162006AADB002E5EA5 /* LaunchScreen.storyboard */; };
 		F686C5232006AADB002E5EA5 /* boilerplate_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F686C5222006AADB002E5EA5 /* boilerplate_iosTests.swift */; };
 		F686C52E2006AADB002E5EA5 /* boilerplate_iosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F686C52D2006AADB002E5EA5 /* boilerplate_iosUITests.swift */; };
+		F6CEEE84209527F3007FACB0 /* .travis.yaml in Resources */ = {isa = PBXBuildFile; fileRef = F6CEEE83209527F3007FACB0 /* .travis.yaml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +90,7 @@
 		F686C5292006AADB002E5EA5 /* boilerplate-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "boilerplate-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F686C52D2006AADB002E5EA5 /* boilerplate_iosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boilerplate_iosUITests.swift; sourceTree = "<group>"; };
 		F686C52F2006AADB002E5EA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6CEEE83209527F3007FACB0 /* .travis.yaml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yaml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -186,6 +188,7 @@
 			children = (
 				F6301DAF2006AD330064ADC9 /* LICENSE.md */,
 				F6301DB02006AD330064ADC9 /* README.md */,
+				F6CEEE83209527F3007FACB0 /* .travis.yaml */,
 				F686C50C2006AADB002E5EA5 /* boilerplate-ios */,
 				F686C5212006AADB002E5EA5 /* boilerplate-iosTests */,
 				F686C52C2006AADB002E5EA5 /* boilerplate-iosUITests */,
@@ -359,6 +362,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F6301DB22006AD330064ADC9 /* README.md in Resources */,
+				F6CEEE84209527F3007FACB0 /* .travis.yaml in Resources */,
 				F6301DB12006AD330064ADC9 /* LICENSE.md in Resources */,
 				F686C5182006AADB002E5EA5 /* LaunchScreen.storyboard in Resources */,
 				F6301D922006ACEF0064ADC9 /* GoogleService-Info.plist in Resources */,
