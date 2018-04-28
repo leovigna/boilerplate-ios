@@ -9,7 +9,8 @@ Integrates my favorite libraries:
 ## Motivation
 This project was created for personal learning and to enable rapid prototyping during hackathons.
 ## Build Status
-Travis build status to be added soon.
+Travis build status to be added soon
+[![Build Status](https://travis-ci.org/lion9901/boilerplate-ios.svg?branch=master)](https://travis-ci.org/lion9901/boilerplate-ios).
 ## Getting Started
 These instructions will get you started.
 ### Prerequisites
