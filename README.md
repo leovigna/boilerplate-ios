@@ -9,7 +9,7 @@ Integrates my favorite libraries:
 ## Motivation
 This project was created for personal learning and to enable rapid prototyping during hackathons.
 ## Build Status
-Travis build status. HERE
+Travis build status to be added soon.
 ## Getting Started
 These instructions will get you started.
 ### Prerequisites
