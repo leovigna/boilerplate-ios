@@ -11,9 +11,7 @@ This project was created for personal learning and to enable rapid prototyping d
 ## Screenshots
 Include logo/demo screenshot etc.
 ## Code style
-If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
-
-[![swift-org](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://swift.org/documentation/api-design-guidelines/)
+Offiical swift API Guidelinces [Swift](https://swift.org/documentation/api-design-guidelines/)
 ## Getting Started
 These instructions will get you started.
 ### Prerequisites
