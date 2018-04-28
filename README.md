@@ -4,6 +4,16 @@ Integrates my favorite libraries:
 * [Firebase Cloud Firestore](https://firebase.google.com/products/firestore/)
 * [Firebase Auth](https://firebase.google.com/products/auth/)
 * [Stripe](http://stripe.com)
+## Motivation
+This project was created for personal learning and to enable rapid prototyping during hackathons.
+## Build Status
+## Codestyle
+## Screenshots
+Include logo/demo screenshot etc.
+## Code style
+If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
+
+[![swift-org](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://swift.org/documentation/api-design-guidelines/)
 ## Getting Started
 These instructions will get you started.
 ### Prerequisites
@@ -26,6 +36,8 @@ If you run the backend on a server make sure to also edit the Stripe API url fie
 ```
 static let STRIPE_API_URL = <SERVER_URL>/stripe
 ```
+## Tests
+Currently no tests are implemented.
 ## Authors
 
 * **Leo Vigna** - *Initial work* - [boilerplate-ios](https://github.com/lion9901/boilerplate-ios)

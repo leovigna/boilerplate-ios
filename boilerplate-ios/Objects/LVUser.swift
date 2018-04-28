@@ -27,7 +27,7 @@ class LVUser:LVObj {
     required init(dataDict:Dictionary<String,Any>) {
         super.init(dataDict: dataDict);
         self.email = dataDict["email"] as? String;
-        self.username = dataDict["email"] as? String;
+        self.username = dataDict["username"] as? String;
     }
     
     override func reference() -> DocumentReference {
@@ -38,7 +38,7 @@ class LVUser:LVObj {
     override func setData(dataDict:Dictionary<String,Any>) {
         super.setData(dataDict: dataDict)
         self.email = dataDict["email"] as? String;
-        self.username = dataDict["email"] as? String;
+        self.username = dataDict["username"] as? String;
     }
     
     ///Return Dictionary representation of User
