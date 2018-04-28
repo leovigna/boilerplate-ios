@@ -11,7 +11,7 @@ This project was created for personal learning and to enable rapid prototyping d
 ## Screenshots
 Include logo/demo screenshot etc.
 ## Code style
-Offiical swift API Guidelinces [Swift](https://swift.org/documentation/api-design-guidelines/)
+Official swift API Guidelines [Swift](https://swift.org/documentation/api-design-guidelines/)
 ## Getting Started
 These instructions will get you started.
 ### Prerequisites
